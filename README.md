@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md. Toriqul islam Razu</h1>
-<h3 align="center">Full-Stack Web Developer | WordPress Expert | SEO & Digital Marketing specialist</h3>
+<a href="https://ibb.co.com/N2vfpKhd"><img src="https://i.ibb.co.com/0y71ZrNR/Professional-Web-Developer-Banner.jpg" alt="Professional web designer and developer specializing in WordPress, HTML5, CSS3, JavaScript, Bootstrap, PHP, jQuery, MySQL, SEO and digital marketing." border="0"></a>
+<h3 align="center">Professional Web Developer | WordPress Expert | SEO & Digital Marketing specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrazu&label=Profile%20views&color=0e75b6&style=flat" alt="devrazu" /> </p>
 
@@ -38,4 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devrazu&show_icons=true&locale=en" alt="devrazu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devrazu&" alt="devrazu" /></p>
-
