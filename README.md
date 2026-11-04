@@ -1,4 +1,4 @@
-<a href="https://ibb.co.com/jPC5LWK5"><img src="https://i.ibb.co.com/wFnLKwHL/Professional-Web-Developer-Banner-1.jpg" alt="Professional-Web-Developer-Banner-1" border="0"></a>
+<a href="https://ibb.co.com/35ptFwvY"><img src="https://i.ibb.co.com/ZRByg3S1/Professional-Web-Developer-Banner.jpg" alt="Web Designer, Web Developer, Professional Web Developer, WordPress Expert, WordPress Developer, Full Stack Web Developer, Front End Developer, PHP Developer, jQuery Developer, HTML5, CSS3, JavaScript, Bootstrap, MySQL, Website Design, Website Development, Custom Website Development, Responsive Web Design, SEO Specialist, SEO Expert, Digital Marketer, Digital Marketing, WordPress Customization, Portfolio Banner, Web Development Portfolio, Freelance Web DeveloperMd. Toriqul Islam Razu; " border="0"></a>
 <h3 align="center">Professional Web Developer | WordPress Expert | SEO & Digital Marketing specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrazu&label=Profile%20views&color=0e75b6&style=flat" alt="devrazu" /> </p>
