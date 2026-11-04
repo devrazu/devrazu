@@ -1,11 +1,11 @@
 <a href="https://ibb.co.com/35ptFwvY"><img src="https://i.ibb.co.com/ZRByg3S1/Professional-Web-Developer-Banner.jpg" alt="Web Designer, Web Developer, Professional Web Developer, WordPress Expert, WordPress Developer, Full Stack Web Developer, Front End Developer, PHP Developer, jQuery Developer, HTML5, CSS3, JavaScript, Bootstrap, MySQL, Website Design, Website Development, Custom Website Development, Responsive Web Design, SEO Specialist, SEO Expert, Digital Marketer, Digital Marketing, WordPress Customization, Portfolio Banner, Web Development Portfolio, Freelance Web DeveloperMd. Toriqul Islam Razu; " border="0"></a>
-<h3 align="center">Professional Web Developer | WordPress Expert | SEO & Digital Marketing specialist</h3>
+<h3 align="center">Web Developer | WordPress Expert | SEO & Digital Marketing specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrazu&label=Profile%20views&color=0e75b6&style=flat" alt="devrazu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devrazu" alt="devrazu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Razu202" /></a> </p>
+<p align="left"> <a href="https://twitter.com/razu202" target="blank"><img src="https://img.shields.io/twitter/follow/razu202?logo=twitter&style=for-the-badge" alt="razu202" /></a> </p>
 
 - 🔭 I’m currently working on **Portfolio Website**
 
@@ -17,6 +17,8 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/devrazu/](https://www.linkedin.com/in/devrazu/)
 
+- 📝 I regularly write articles on [https://x.com/Razu202](https://x.com/Razu202)
+
 - 💬 Ask me about **Web Design,Web Development,WordPress, Elementor, HTML5, CSS3, JavaScript, Bootstrap, MySQL, SEO & Digital Marketing**
 
 - 📫 How to reach me **tariqulislamrazu202@gmail.com**
@@ -25,6 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/razu202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razu202" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devrazu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devrazu" height="30" width="40" /></a>
 <a href="https://fb.com/toriqul.islamrazu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="toriqul.islamrazu" height="30" width="40" /></a>
 <a href="https://instagram.com/toriqulislamrazu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toriqulislamrazu" height="30" width="40" /></a>
