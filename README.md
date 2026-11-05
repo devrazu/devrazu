@@ -1,4 +1,4 @@
-<a href="https://ibb.co.com/qMyR3Z6L"><img src="https://i.ibb.co.com/zhnSTkdW/Professional-Web-Developer-Banner.png" alt="Professional-Web-Developer-Banner" border="0"></a>
+<a href="https://ibb.co.com/0jNVfRby"><img src="https://i.ibb.co.com/N6hnLdB2/Professional-Web-Developer-Portfolio-Banner.png" alt="Professional-Web-Developer-Portfolio-Banner" border="0"></a>
 <h3 align="center">Web Developer | WordPress Expert | SEO & Digital Marketing specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrazu&label=Profile%20views&color=0e75b6&style=flat" alt="devrazu" /> </p>
