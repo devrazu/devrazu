@@ -34,7 +34,7 @@ I'm a passionate **Web Designer & Developer** specializing in WordPress, respons
 
 I enjoy transforming ideas into modern, functional, and user-friendly websites. My goal is to build digital experiences that help businesses grow online.
 
-- 🔭 Currently working on **My Personal Portfolio Website**
+- 🔭 Currently working on **a client project creating E-commerce Website**
 - 🌱 Currently learning **PHP, jQuery & Advanced Web Development**
 - 👯 Looking to collaborate on **Business Websites & Landing Pages**
 - 🤝 Interested in **Advanced Web Development & Client Projects**
