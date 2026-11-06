@@ -1,43 +1,159 @@
-<a href="https://ibb.co.com/1fZDSmfL"><img src="https://i.ibb.co.com/bg1SfKgP/Professional-Web-Designer-Banner-1.jpg" alt="Web Designer, Web Developer, Professional Web Developer, WordPress Expert, WordPress Developer, Full Stack Web Developer, Front End Developer, PHP Developer, jQuery Developer, HTML5, CSS3, JavaScript, Bootstrap, MySQL, Website Design, Website Development, Custom Website Development, Responsive Web Design, SEO Specialist, SEO Expert, Digital Marketer, Digital Marketing, WordPress Customization, Portfolio Banner, Web Development Portfolio, Freelance Web DeveloperMd. Toriqul Islam Razu;" border="0" width="100%"></a>
-<h3 align="center">Web Developer | WordPress Expert | SEO & Digital Marketing specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devrazu&label=Profile%20views&color=0e75b6&style=flat" alt="devrazu" /> </p>
+<!-- ================= HEADER BANNER ================= -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devrazu" alt="devrazu" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/razu202" target="blank"><img src="https://img.shields.io/twitter/follow/razu202?logo=twitter&style=for-the-badge" alt="razu202" /></a> </p>
-
-- 🔭 I’m currently working on **Portfolio Website**
-
-- 🌱 I’m currently learning **PHP,jQuery,Bootstrap**
-
-- 👯 I’m looking to collaborate on **Business Websites & Landing Pages**
-
-- 🤝 I’m looking for help with **Advanced Web Development & Client Projects Project link**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/devrazu/](https://www.linkedin.com/in/devrazu/)
-
-- 📝 I regularly write articles on [https://x.com/Razu202](https://x.com/Razu202)
-
-- 💬 Ask me about **Web Design,Web Development,WordPress, Elementor, HTML5, CSS3, JavaScript, Bootstrap, MySQL, SEO & Digital Marketing**
-
-- 📫 How to reach me **tariqulislamrazu202@gmail.com**
-
-- ⚡ Fun fact **Fun is Ultimate**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/razu202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razu202" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devrazu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devrazu" height="30" width="40" /></a>
-<a href="https://fb.com/toriqul.islamrazu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="toriqul.islamrazu" height="30" width="40" /></a>
-<a href="https://instagram.com/toriqulislamrazu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toriqulislamrazu" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://ibb.co.com/1fZDSmfL">
+    <img
+      src="https://i.ibb.co.com/bg1SfKgP/Professional-Web-Designer-Banner-1.jpg"
+      alt="Toriqul Islam Razu | Web Designer and Developer"
+      width="100%"
+    />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Toriqul Islam Razu</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devrazu&show_icons=true&locale=en&layout=compact" alt="devrazu" /></p>
+<h3 align="center">
+  Web Designer & Developer | WordPress Expert | SEO Specialist
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devrazu&show_icons=true&locale=en" alt="devrazu" /></p>
+<p align="center">
+  <a href="https://github.com/devrazu">
+    <img src="https://komarev.com/ghpvc/?username=devrazu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/devrazu?tab=followers">
+    <img src="https://img.shields.io/github/followers/devrazu?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devrazu&" alt="devrazu" /></p>
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate **Web Designer & Developer** specializing in WordPress, responsive website development, and SEO.
+
+I enjoy transforming ideas into modern, functional, and user-friendly websites. My goal is to build digital experiences that help businesses grow online.
+
+- 🔭 Currently working on **My Personal Portfolio Website**
+- 🌱 Currently learning **PHP, jQuery & Advanced Web Development**
+- 👯 Looking to collaborate on **Business Websites & Landing Pages**
+- 🤝 Interested in **Advanced Web Development & Client Projects**
+- 💬 Ask me about **WordPress, Elementor, HTML, CSS, JavaScript & SEO**
+- 📝 Sharing updates on **[X (Twitter)](https://x.com/Razu202)**
+- 📫 Reach me at **tariqulislamrazu202@gmail.com**
+- ⚡ Fun fact: **I love learning new technologies and building creative things!**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/devrazu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/razu202" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://fb.com/toriqul.islamrazu" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/toriqulislamrazu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="45" alt="Bootstrap"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" width="45" alt="PHP"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"/>
+  </a>
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jquery" width="45" alt="jQuery"/>
+  </a>
+  <a href="https://wordpress.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=wordpress" width="45" alt="WordPress"/>
+  </a>
+  <a href="https://elementor.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=wordpress" width="45" alt="Elementor"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" width="45" alt="Figma"/>
+  </a>
+  <a href="https://www.photoshop.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ps" width="45" alt="Photoshop"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=devrazu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrazu&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=devrazu&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="70%"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=devrazu&theme=tokyonight&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
+    width="100%"
+  />
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Let's Build Something Great Together! ✨</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile. Feel free to explore my repositories and connect with me!</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/devrazu">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on-GitHub-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
+  </a>
+</p>
