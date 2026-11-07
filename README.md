@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Toriqul Islam Razu</h1>
+<h1 align="center">Hi , I'm Toriqul Islam Razu</h1>
 
 <h3 align="center">
   Web Designer & Developer | WordPress Expert | SEO Specialist
@@ -34,14 +34,14 @@ I'm a passionate **Web Designer & Developer** specializing in WordPress, respons
 
 I enjoy transforming ideas into modern, functional, and user-friendly websites. My goal is to build digital experiences that help businesses grow online.
 
-- 🔭 Currently working on **a client project creating E-commerce Website**
-- 🌱 Currently learning **PHP, jQuery & Advanced Web Development**
-- 👯 Looking to collaborate on **Business Websites & Landing Pages**
-- 🤝 Interested in **Advanced Web Development & Client Projects**
-- 💬 Ask me about **WordPress, Elementor, HTML, CSS, JavaScript & SEO**
-- 📝 Sharing updates on **[X (Twitter)](https://x.com/Razu202)**
-- 📫 Reach me at **tariqulislamrazu202@gmail.com**
-- ⚡ Fun fact: **I love learning new technologies and building creative things!**
+-  Currently working on **a client project creating E-commerce Website**
+-  Currently learning **PHP, jQuery & Advanced Web Development**
+-  Looking to collaborate on **Business Websites & Landing Pages**
+-  Interested in **Advanced Web Development & Client Projects**
+-  Ask me about **WordPress, Elementor, HTML, CSS, JavaScript & SEO**
+-  Sharing updates on **[X (Twitter)](https://x.com/Razu202)**
+-  Reach me at **tariqulislamrazu202@gmail.com**
+-  Fun fact: **I love learning new technologies and building creative things!**
 
 ---
 
@@ -145,7 +145,7 @@ I enjoy transforming ideas into modern, functional, and user-friendly websites. 
 ---
 
 <p align="center">
-  <b>✨ Let's Build Something Great Together! ✨</b>
+  <b> Let's Build Something Great Together! </b>
 </p>
 
 <p align="center">
